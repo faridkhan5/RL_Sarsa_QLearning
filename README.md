@@ -1,5 +1,11 @@
 # Reinforcement Learning with SARSA and Q-Learning
 
+![env](environment.png)
+![reward](reward_curve.png)
+![steps](steps_per_episode.png)
+![state visit](state_visit_counts.png)
+![q_values](q_values_heatmap.png)
+
 ## About
 This repository contains implementations of SARSA and Q-Learning algorithms for a grid-based reinforcement learning task. The project explores various configurations and hyperparameters to optimize agent performance in different environmental settings.
 
